@@ -1,0 +1,138 @@
+[
+  {
+    "count": "17",
+    "name": "Progressive Planets",
+    "category": [
+      "PLANETS"
+    ],
+    "progression": true
+  },
+  {
+    "count": "35",
+    "name": "Titanium Bolts",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hypershot",
+    "category": [
+      "GADGETS"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hacker",
+    "category": [
+      "GADGETS"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tyrhrra-guise",
+    "category": [
+      "GADGETS"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grav-boots",
+    "category": [
+      "GADGETS"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bolt-Grabber V2",
+    "category": [
+      "GADGETS"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Map-O-Matic",
+    "category": [
+      "GADGETS"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Nano-Pak",
+    "category": [
+      "GADGETS"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Warp Pad",
+    "category": [
+      "GADGETS"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gadgetron PDU",
+    "category": [
+      "GADGETS"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Magna Plate Armor",
+    "category": [
+      "ARMOR"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Adamantine Armor",
+    "category": [
+      "ARMOR"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aegis Mark V Armor",
+    "category": [
+      "ARMOR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Infernox Armor",
+    "category": [
+      "ARMOR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Charge Boots",
+    "category": [
+      "GADGETS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Refractor",
+    "category": [
+      "GADGETS"
+    ],
+    "progression": true
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "name": "Shock Cannon (V1)",
+    "region": "Veldin",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shock Cannon (V2)",
+    "region": "Veldin",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shock Cannon (V3)",
+    "region": "Veldin",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shock Cannon (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Veldin"
+  },
+  {
+    "name": "Shock Cannon (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Veldin"
+  },
+  {
+    "name": "Nitro Launcher (V1)",
+    "region": "Veldin",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nitro Launcher (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Veldin"
+  },
+  {
+    "name": "Nitro Launcher (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Veldin"
+  },
+  {
+    "name": "Nitro Launcher (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Veldin"
+  },
+  {
+    "name": "Nitro Launcher (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Veldin"
+  },
+  {
+    "name": "N60 Storm (V1)",
+    "region": "Florana",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "N60 Storm (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Florana"
+  },
+  {
+    "name": "N60 Storm (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Florana"
+  },
+  {
+    "name": "N60 Storm (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Florana"
+  },
+  {
+    "name": "N60 Storm (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Florana"
+  },
+  {
+    "name": "Plasma Whip (V1)",
+    "region": "Florana",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Plasma Whip (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Florana"
+  },
+  {
+    "name": "Plasma Whip (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Florana"
+  },
+  {
+    "name": "Plasma Whip (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Florana"
+  },
+  {
+    "name": "Plasma Whip (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Florana"
+  },
+  {
+    "name": "Suck Cannon (V1)",
+    "region": "Starship Phoenix",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Suck Cannon (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Starship Phoenix"
+  },
+  {
+    "name": "Suck Cannon (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Starship Phoenix"
+  },
+  {
+    "name": "Suck Cannon (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Starship Phoenix"
+  },
+  {
+    "name": "Suck Cannon (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Starship Phoenix"
+  },
+  {
+    "name": "Infector (V1)",
+    "region": "Starship Phoenix",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Infector (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Starship Phoenix"
+  },
+  {
+    "name": "Infector (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Starship Phoenix"
+  },
+  {
+    "name": "Infector (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Starship Phoenix"
+  },
+  {
+    "name": "Infector (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Starship Phoenix"
+  },
+  {
+    "name": "Spitting Hydra (V1)",
+    "region": "Marcadia",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spitting Hydra (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Marcadia"
+  },
+  {
+    "name": "Spitting Hydra (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Marcadia"
+  },
+  {
+    "name": "Spitting Hydra (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Marcadia"
+  },
+  {
+    "name": "Spitting Hydra (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Marcadia"
+  },
+  {
+    "name": "Agents Of Doom (V1)",
+    "region": "Annihilation Nation",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Agents Of Doom (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Annihilation Nation"
+  },
+  {
+    "name": "Agents Of Doom (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Annihilation Nation"
+  },
+  {
+    "name": "Agents Of Doom (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Annihilation Nation"
+  },
+  {
+    "name": "Agents Of Doom (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Annihilation Nation"
+  },
+  {
+    "name": "Flux Rifle (V1)",
+    "region": "Aquatos",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Flux Rifle (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Aquatos"
+  },
+  {
+    "name": "Flux Rifle (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Aquatos"
+  },
+  {
+    "name": "Flux Rifle (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Aquatos"
+  },
+  {
+    "name": "Flux Rifle (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Aquatos"
+  },
+  {
+    "name": "Holoshield Glove (V1)",
+    "region": "Tyrhrranosis",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Holoshield Glove (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Tyrhrranosis"
+  },
+  {
+    "name": "Holoshield Glove (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Tyrhrranosis"
+  },
+  {
+    "name": "Holoshield Glove (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Tyrhrranosis"
+  },
+  {
+    "name": "Holoshield Glove (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Tyrhrranosis"
+  },
+  {
+    "name": "Annihilator (V1)",
+    "region": "Tyrhrranosis",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Annihilator (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Tyrhrranosis"
+  },
+  {
+    "name": "Annihilator (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Tyrhrranosis"
+  },
+  {
+    "name": "Annihilator (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Tyrhrranosis"
+  },
+  {
+    "name": "Annihilator (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Tyrhrranosis"
+  },
+  {
+    "name": "Disk Blade Gun (V1)",
+    "region": "Obani Gemini",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Disk Blade Gun (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Obani Gemini"
+  },
+  {
+    "name": "Disk Blade Gun (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Obani Gemini"
+  },
+  {
+    "name": "Disk Blade Gun (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Obani Gemini"
+  },
+  {
+    "name": "Disk Blade Gun (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Obani Gemini"
+  },
+  {
+    "name": "Rift Inducer (V1)",
+    "region": "Holostar Studios",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rift Inducer (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Holostar Studios"
+  },
+  {
+    "name": "Rift Inducer (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Holostar Studios"
+  },
+  {
+    "name": "Rift Inducer (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Holostar Studios"
+  },
+  {
+    "name": "Rift Inducer (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Holostar Studios"
+  },
+  {
+    "name": "Qwack-O-Ray (V1)",
+    "region": "Aridia",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Qwack-O-Ray (V2)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Aridia"
+  },
+  {
+    "name": "Qwack-O-Ray (V3)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Aridia"
+  },
+  {
+    "name": "Qwack-O-Ray (V4)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Aridia"
+  },
+  {
+    "name": "Qwack-O-Ray (V5)",
+    "category": [
+      "WEAPONS"
+    ],
+    "requires": [],
+    "region": "Aridia"
+  },
+  {
+    "name": "Post-Veldin",
+    "region": "Veldin",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": [],
+    "place_item": [
+      "Progressive Planets"
+    ]
+  },
+  {
+    "name": "Post-Florana",
+    "region": "Florana",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:1|"
+  },
+  {
+    "name": "Post-Starship Phoenix",
+    "region": "Starship Phoenix",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:2|"
+  },
+  {
+    "name": "Post-Marcadia",
+    "region": "Marcadia",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:3|"
+  },
+  {
+    "name": "Post-Annihilation Nation",
+    "region": "Annihilation Nation",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:4|"
+  },
+  {
+    "name": "Post-Aquatos",
+    "region": "Aquatos",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:5|"
+  },
+  {
+    "name": "Post-Tyrhrranosis",
+    "region": "Tyrhrranosis",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:6|"
+  },
+  {
+    "name": "Post-Daxx",
+    "region": "Daxx",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:7|"
+  },
+  {
+    "name": "Post-Obani Gemini",
+    "region": "Obani Gemini",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:8|"
+  },
+  {
+    "name": "Post-Rilgar",
+    "region": "Rilgar",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:9|"
+  },
+  {
+    "name": "Post-Holostar Studios",
+    "region": "Holostar Studios",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:10|"
+  },
+  {
+    "name": "Post-Zeldrin Starport",
+    "region": "Zeldrin Starport",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:11|"
+  },
+  {
+    "name": "Post-Metropolis",
+    "region": "Metropolis",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:12|"
+  },
+  {
+    "name": "Post-Zeldrin",
+    "region": "Zeldrin",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:13|"
+  },
+  {
+    "name": "Post-Aridia",
+    "region": "Aridia",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:14|"
+  },
+  {
+    "name": "Post-Qwark's Hideout",
+    "region": "Quark's Hideout",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:15|"
+  },
+  {
+    "name": "Post-Koros",
+    "region": "Koros",
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:16|"
+  },
+  {
+    "name": "Post-Mylon",
+    "region": "Mylon",
+    "victory": true,
+    "category": [
+      "PLANETS"
+    ],
+    "requires": "|Progressive Planets:17|"
+  },
+  {
+    "name": "Below Gadgetron Vendor (Florana)",
+    "region": "Florana",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Path of Death Bolt (Florana)",
+    "region": "Florana",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "All VR Deck Challenges (Starship Phoenix)",
+    "region": "Starship Phoenix",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Progressive Planets:7|"
+  },
+  {
+    "name": "Complete VR Training (Starship Phoenix)",
+    "region": "Starship Phoenix",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Progressive Planets:7| AND |Hypershot| AND |Hacker|"
+  },
+  {
+    "name": "After Pool of Water (Marcadia)",
+    "region": "Marcadia",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Last Refractor Room (Marcadia)",
+    "region": "Marcadia",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Grav-boots| AND |Progressive Planets:9|"
+  },
+  {
+    "name": "Ceiling Before Al (Marcadia)",
+    "region": "Marcadia",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Grav-boots| AND |Progressive Planets:9|"
+  },
+  {
+    "name": "Heat Street (Annihilation Nation)",
+    "region": "Annihilation Nation",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Maze of Blaze (Annihilation Nation)",
+    "region": "Annihilation Nation",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Under the Bridge (Aquatos)",
+    "region": "Aquatos",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Underwater Bolt (Aquatos)",
+    "region": "Aquatos",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Behind the Locked Gate (Aquatos)",
+    "region": "Aquatos",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Hacker:1|"
+  },
+  {
+    "name": "Top Left Bolt (Aquatos)",
+    "region": "Aquatos",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Grav-boots| AND |Progressive Planets:9|"
+  },
+  {
+    "name": "Swinging Bolt (Aquatos)",
+    "region": "Aquatos",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Grav-boots| AND |Progressive Planets:9| AND |Hypershot|"
+  },
+  {
+    "name": "South East Cannon (Tyhrranosis)",
+    "region": "Tyrhrranosis",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Underground Cave Bolt (Tyrhrranosis)",
+    "region": "Tyrhrranosis",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Hypershot| AND |Progressive Planets:7|"
+  },
+  {
+    "name": "Right of the Taxi (Daxx)",
+    "region": "Daxx",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Time Sensitive Door (Daxx)",
+    "region": "Daxx",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Charge Boots:1| AND |Hacker:1|"
+  },
+  {
+    "name": "Follow the Lava (Obani Gemini)",
+    "region": "Obani Gemini",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Hypershot| AND |Progressive Planets:7|"
+  },
+  {
+    "name": "Between the Two Towers (Obani Gemini)",
+    "region": "Obani Gemini",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Atop the Chairs (Holostar Studios)",
+    "region": "Holostar Studios",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lot 42's Grav Ramp (Holostar Studios)",
+    "region": "Holostar Studios",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Grav-boots| AND |Progressive Planets:9|"
+  },
+  {
+    "name": "Kamikaze Noids (Holostar Studios)",
+    "region": "Holostar Studios",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Grav-boots| AND |Progressive Planets:9|"
+  },
+  {
+    "name": "Inside the Second Ship (Zeldrin Starport)",
+    "region": "Zeldrin Starport",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Atop the Twin Shooters (Zeldrin Starport)",
+    "region": "Zeldrin Starport",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Across the Gap (Metropolis)",
+    "region": "Metropolis",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Right of the Balcony (Metropolis)",
+    "region": "Metropolis",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tall Tower (Hovership - Metropolis)",
+    "region": "Metropolis",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Turn Around (Zeldrin)",
+    "region": "Zeldrin",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Grav-boots| AND |Progressive Planets:9|"
+  },
+  {
+    "name": "Under the Bridge (Assassination - Aridia)",
+    "region": "Aridia",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Behind the Base (X12 Endgame - Aridia)",
+    "region": "Aridia",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glide from the Ramp (Quark's Hideout)",
+    "region": "Quark's Hideout",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": "|Grav-boots| AND |Progressive Planets:9|"
+  },
+  {
+    "name": "Behind the Metal Fence (Koros)",
+    "region": "Koros",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pair of Towers (Koros)",
+    "region": "Koros",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Behind the Forcefield (Mylon)",
+    "region": "Mylon",
+    "category": [
+      "TITANIUMBOLTS"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Magna Plate Armor",
+    "region": "Starship Phoenix",
+    "category": [
+      "ARMOR"
+    ],
+    "requires": "|Progressive Planets:2| AND |Magna Plate Armor|"
+  },
+  {
+    "name": "Adamantine Armor",
+    "region": "Starship Phoenix",
+    "category": [
+      "ARMOR"
+    ],
+    "requires": "|Progressive Planets:6| AND |Adamantine Armor|"
+  },
+  {
+    "name": "Aegis Mark V Armor",
+    "region": "Starship Phoenix",
+    "category": [
+      "ARMOR"
+    ],
+    "requires": "|Progressive Planets:14| AND |Aegis Mark V Armor|"
+  },
+  {
+    "name": "Infernox Armor",
+    "region": "Starship Phoenix",
+    "category": [
+      "ARMOR"
+    ],
+    "requires": "|Progressive Planets:16| AND |Infernox Armor|"
+  },
+  {
+    "name": "Hypershot",
+    "region": "Starship Phoenix",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:7|"
+  },
+  {
+    "name": "Hacker",
+    "region": "Starship Phoenix",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:7|"
+  },
+  {
+    "name": "Tyrhrra-Guise",
+    "region": "Annihilation Nation",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:4|"
+  },
+  {
+    "name": "Grav-Boots",
+    "region": "Rilgar",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:9|"
+  },
+  {
+    "name": "Bolt Grabber V2",
+    "region": "Zeldrin Starport",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:11|"
+  },
+  {
+    "name": "Map-O-Matic",
+    "region": "Metropolis",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:12|"
+  },
+  {
+    "name": "Nano-Pak",
+    "region": "Zeldrin",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:13|"
+  },
+  {
+    "name": "Warp Pad",
+    "region": "Aridia",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:14|"
+  },
+  {
+    "name": "Gadgetron PDU",
+    "region": "Quark's Hideout",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:15|"
+  },
+  {
+    "name": "Refractor",
+    "region": "Marcadia",
+    "category": [
+      "GADGETS"
+    ],
+    "requires": "|Progressive Planets:3|"
+  }
+]

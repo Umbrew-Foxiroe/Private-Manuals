@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "RatchetAndClankUYA",
+  "creator": "Rhythm",
+  "death_link": "TRUE",
+  "filler_item_name": "Look, plumber's crack!",
+  "starting_items": []
+}

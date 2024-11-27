@@ -1,0 +1,109 @@
+{
+  "Veldin": {
+    "starting": true,
+    "connects_to": [
+      "Florana"
+    ],
+    "requires": []
+  },
+  "Florana": {
+    "connects_to": [
+      "Starship Phoenix"
+    ],
+    "requires": "|Progressive Planets:1|"
+  },
+  "Starship Phoenix": {
+    "connects_to": [
+      "Marcadia"
+    ],
+    "requires": "|Progressive Planets:2|"
+  },
+  "Marcadia": {
+    "connects_to": [
+      "Annihilation Nation"
+    ],
+    "requires": "|Progressive Planets:3| AND |Refractor|"
+  },
+  "Annihilation Nation": {
+    "connects_to": [
+      "Aquatos"
+    ],
+    "requires": "|Progressive Planets:4| AND |Magna Plate Armor:1|"
+  },
+  "Aquatos": {
+    "connects_to": [
+      "Tyrhrranosis"
+    ],
+    "requires": "|Progressive Planets:5| AND |Tyrhrra-guise:1|"
+  },
+  "Tyrhrranosis": {
+    "connects_to": [
+      "Daxx"
+    ],
+    "requires": "|Progressive Planets:6| AND |Adamantine Armor:1|"
+  },
+  "Daxx": {
+    "connects_to": [
+      "Obani Gemini"
+    ],
+    "requires": "|Progressive Planets:7| AND |Hypershot:1| AND |Hacker:1|"
+  },
+  "Obani Gemini": {
+    "connects_to": [
+      "Rilgar"
+    ],
+    "requires": "|Progressive Planets:8| AND |Grav-boots:1|"
+  },
+  "Rilgar": {
+    "connects_to": [
+      "Holostar Studios"
+    ],
+    "requires": "|Progressive Planets:9|"
+  },
+  "Holostar Studios": {
+    "connects_to": [
+      "Zeldrin Starport"
+    ],
+    "requires": "|Progressive Planets:10|"
+  },
+  "Zeldrin Starport": {
+    "connects_to": [
+      "Metropolis"
+    ],
+    "requires": "|Progressive Planets:11|"
+  },
+  "Metropolis": {
+    "connects_to": [
+      "Zeldrin"
+    ],
+    "requires": "|Progressive Planets:12|"
+  },
+  "Zeldrin": {
+    "connects_to": [
+      "Aridia"
+    ],
+    "requires": "|Progressive Planets:13|"
+  },
+  "Aridia": {
+    "connects_to": [
+      "Quark's Hideout"
+    ],
+    "requires": "|Progressive Planets:14| AND |Aegis Mark V Armor|"
+  },
+  "Quark's Hideout": {
+    "connects_to": [
+      "Koros"
+    ],
+    "requires": "|Progressive Planets:15| AND |Warp Pad:1|"
+  },
+  "Koros": {
+    "connects_to": [
+      "Mylon"
+    ],
+    "requires": "|Progressive Planets:16| AND |Infernox Armor|"
+  },
+  "Mylon": {
+    "connects_to": [],
+    "requires": "|Progressive Planets:17|"
+  }
+}
